@@ -1,0 +1,10 @@
+Posicionamento em Página Web
+
+Existem diferentes posicionamentos de conteúdo 
+em uma página. O fluxo padrão é seguir do alto e 
+à esquerda da página até abaixo e à direita.
+
+Por padrão os elementos tem posicionamento estático
+(static). Para alterar esse posicionamento temos que
+partir de um elemento pai, que deve ser configurado
+com posicionamento relativo (relative).
