@@ -41,6 +41,13 @@ nav{
     font-weight: 800;
 }
 
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
 #aulas{
     border: 2px solid #56A98A;
     width: 20%;
